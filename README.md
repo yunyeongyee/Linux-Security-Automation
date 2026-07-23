@@ -179,5 +179,3 @@ __pycache__/
 ```
 
 ---
-
-linux_vuln_fix · yyyee
